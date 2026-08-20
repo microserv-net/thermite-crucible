@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "id": "01M0F66EDP0W39BZA46YGHR4PG",
+  "toolchain": "stable",
+  "target": "aarch64-apple-darwin",
+  "projectType": "cargo",
+  "name": "argrust",
+  "entry": "source/Cargo.toml",
+  "submittedAt": "2026-08-20T08:56:55.119Z",
+  "client": "thermite-web/1.0.0",
+  "files": 8,
+  "bytes": 50689,
+  "cleanup": {
+    "policy": "expire",
+    "onFailure": "keep"
+  }
+}
