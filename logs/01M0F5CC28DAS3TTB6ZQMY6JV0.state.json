@@ -1,0 +1,18 @@
+{
+  "job": "01M0F5CC28DAS3TTB6ZQMY6JV0",
+  "phase": "INGEST",
+  "live": true,
+  "startedAt": "2026-08-20T08:43:03.185Z",
+  "updatedAt": "2026-08-20T08:43:04.898Z",
+  "bytes": 178,
+  "lines": 7,
+  "lineRate": 7,
+  "runner": "macOS/ARM64",
+  "sealed": false,
+  "runId": "32350171314",
+  "sha": "125a8a6537bf8b12942d12f4ba75054a31113b43",
+  "rustc": null,
+  "cargo": null,
+  "target": "aarch64-apple-darwin",
+  "toolchain": "stable"
+}
