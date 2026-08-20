@@ -36,3 +36,12 @@ $ cargo +stable build --release --target aarch64-apple-darwin
 [1m[92m  Downloaded[0m rustypath v0.1.1
 [1m[92m   Compiling[0m libc v0.2.189
 [1m[92m   Compiling[0m option-ext v0.2.0
+[1m[92m   Compiling[0m dirs-sys v0.4.1
+[1m[92m   Compiling[0m dirs v5.0.1
+[1m[92m   Compiling[0m rustypath v0.1.1
+[1m[92m   Compiling[0m argrust v1.0.0 (/Users/runner/work/thermite-crucible/thermite-crucible/jobs/01M0F69QMJ03VCW86Q56DQ09FD/source)
+[1m[92m    Finished[0m `release` profile [optimized] target(s) in 6.81s
+
+##thermite:linking
+Compiled clean. Casting the ingot.
+##thermite:packaged thermite-01M0F69QMJ03VCW86Q56DQ09FD.tar.gz sha256=f00caa5fe1b96ca17a18710cb6654fb0e9bffac2880c45af0ce0b88437eed53c
