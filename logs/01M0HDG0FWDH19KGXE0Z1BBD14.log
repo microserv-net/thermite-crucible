@@ -18,3 +18,11 @@ info: removing previous version of component cargo
 info: removing previous version of component rust-std
 info: removing previous version of component rustc
 info: downloading 5 components
+
+  stable-aarch64-apple-darwin updated - rustc 1.98.0 (88d9e12ae 2026-08-18) (from rustc 1.97.1 (8bab26f4f 2026-07-14))
+
+info: self-update is disabled for this build of rustup
+info: any updates to rustup will need to be fetched with your system package manager
+
+$ rustup target add aarch64-apple-darwin --toolchain stable
+info: component rust-std is up to date
