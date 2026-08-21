@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "id": "01M0HDG0FWDH19KGXE0Z1BBD14",
+  "toolchain": "stable",
+  "target": "aarch64-apple-darwin",
+  "projectType": "cargo",
+  "name": "argrust",
+  "entry": "",
+  "submittedAt": "2026-08-21T05:42:56.766Z",
+  "client": "thermite-web/1.0.0",
+  "files": 0,
+  "bytes": 0,
+  "source": {
+    "kind": "repo",
+    "owner": "d33p0st",
+    "repo": "argrust",
+    "ref": "main"
+  },
+  "cleanup": {
+    "policy": "expire",
+    "onFailure": "keep"
+  }
+}
