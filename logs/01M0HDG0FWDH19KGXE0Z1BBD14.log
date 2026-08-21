@@ -1,0 +1,7 @@
+THERMITE // pour 01M0HDG0FWDH19KGXE0Z1BBD14
+commit  9bb26be2108b0ccf1bcab2b30f759cdf6bbc0a28
+run     32451575384
+target  aarch64-apple-darwin
+rust    stable
+runner  macOS/ARM64
+
