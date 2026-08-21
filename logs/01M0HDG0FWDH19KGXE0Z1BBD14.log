@@ -54,3 +54,8 @@ $ cargo +stable build --release --target aarch64-apple-darwin
 ##thermite:linking
 Compiled clean. Casting the ingot.
 ##thermite:packaged thermite-01M0HDG0FWDH19KGXE0Z1BBD14.tar.gz sha256=3ba5f9763546acdf54f3820527b8f12982ddbe49ac045c0b2ae5226b2b71907f
+##thermite:ingot https://github.com/microserv-net/thermite-crucible/releases/download/pour-01M0HDG0FWDH19KGXE0Z1BBD14/thermite-01M0HDG0FWDH19KGXE0Z1BBD14.tar.gz
+
+BUILD SUCCESS
+
+##thermite:end:SUCCESS
